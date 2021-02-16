@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paint_app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/paint_app/static/js/main.cd2e8e5c.chunk.js",
+    "main.js.map": "/paint_app/static/js/main.cd2e8e5c.chunk.js.map",
+    "runtime-main.js": "/paint_app/static/js/runtime-main.6a2c3449.js",
+    "runtime-main.js.map": "/paint_app/static/js/runtime-main.6a2c3449.js.map",
+    "static/js/2.67f60c9c.chunk.js": "/paint_app/static/js/2.67f60c9c.chunk.js",
+    "static/js/2.67f60c9c.chunk.js.map": "/paint_app/static/js/2.67f60c9c.chunk.js.map",
+    "static/js/3.7f8ba56a.chunk.js": "/paint_app/static/js/3.7f8ba56a.chunk.js",
+    "static/js/3.7f8ba56a.chunk.js.map": "/paint_app/static/js/3.7f8ba56a.chunk.js.map",
+    "index.html": "/paint_app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/paint_app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.67f60c9c.chunk.js.LICENSE.txt": "/paint_app/static/js/2.67f60c9c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/paint_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a2c3449.js",
+    "static/js/2.67f60c9c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cd2e8e5c.chunk.js"
+  ]
+}
